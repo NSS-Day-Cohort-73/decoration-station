@@ -42,9 +42,3 @@
 - Optional Chaining
 - Route parameters
 - React Dev Tools
-
-## Setup
-
-Clone this repo and make an api directory with a database.json file.
-
-
