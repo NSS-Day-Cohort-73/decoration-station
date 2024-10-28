@@ -1,10 +1,14 @@
+#### Part 0:
+
+- Initial Vite setup file structure
+
 #### Part 1:
 
 - Use State
 - Use Effect
   - Initial state
   - Dependency array
-- Fetch (Get)
+- Fetch (Get, READ)
 - JSX
   - Can only return one element
   - mapping
@@ -16,7 +20,7 @@
 #### Part 2:
 
 - Forms
-- Fetch (Post)
+- Fetch (Post, CREATE)
 - Event Handling
 - Breaking things into smaller components
 - Props
@@ -41,4 +45,6 @@
 - Fetch with parameters, expand
 - Optional Chaining
 - Route parameters
+- Fetch (Put, UPDATE)
+- Fetch (Delete, DELETE)
 - React Dev Tools
